@@ -1,3 +1,4 @@
 Import the libraries
 Import the datasets
-Issing data updation using imputer module of sklearn
+MIssing data updation using imputer module of sklearn
+One hot encoding
